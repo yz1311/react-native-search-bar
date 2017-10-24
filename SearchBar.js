@@ -6,7 +6,7 @@ ReactNative = require('react-native');
 
 RNSearchBar = ReactNative.requireNativeComponent('RNSearchBar', null);
 
-+PropTypes = require 'prop-types
++PropTypes = require 'prop-types'
 
 NativeModules = ReactNative.NativeModules;
 
